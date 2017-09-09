@@ -38,7 +38,11 @@ I have written vim syntax highlighting files for this program. This could potent
 
 # File formats
 
+I simply use space delimited files for all input files. 
 
+
+
+# Parameter File
 
 
 
