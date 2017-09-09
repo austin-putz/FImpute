@@ -42,6 +42,10 @@ I simply use space delimited files for all input files.
 
 ## Map File
 
+The map file needs (1) SNP name, (2) Chromosome Number, (3) BP Position, (4) Chip position. 
+
+The confusing part is adding the chip position. This example only has 1 chip, but with more chips the position of number 1 will change. For instance, if the first chip contains all SNP, number 1 will start with the first SNP to n of the last SNP. Chip 2 may be a low-density panel and number 1 will start at SNP 10 for example. This will change based on the panels you have. I believe 0 is missing (not on that chip). 
+
 ![Screenshot of Map File](/Screenshots/MapFile.png?raw=true "Map file example")
 
 ## Genotype File
@@ -67,6 +71,17 @@ This is a simple keyword file with options and file names.
 These are the main ones. There are many more options in the documentation. 
 
 # Output Files
+
+* genotypes_imp.txt
+* org_vs_imp.txt
+* parentage_test.txt
+* ref_pop.txt
+* report.txt
+* snp_info.txt
+* stat_anim_imp.txt
+* stat_anim.txt
+* stat_snp_imp.txt
+* stat_snp.txt
 
 
 
