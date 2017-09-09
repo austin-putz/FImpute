@@ -40,9 +40,37 @@ I have written vim syntax highlighting files for this program. This could potent
 
 I simply use space delimited files for all input files. 
 
+## Map File
+
+![Screenshot of Map File](/Screenshots/MapFile.png?raw=true "Map file example")
+
+## Genotype File
+
+The genotype file needs (1) ID, (2) Chip Number, (3) Genotypes (0,1,2,5=missing). No spaces in the genotypes (saves lots of space). 
+
+![Screenshot of Genotype File](/Screenshots/GenotypeFile.png?raw=true "Genotype file example")
+
+## Pedigree File
+
+You need a file with (1) Animal ID, (2) Sire, (3) Dam, (4) Sex (M/F). 
+
+![Screenshot of Pedigree File](/Screenshots/PedigreeFile.png?raw=true "Pedigree file example")
+
 
 
 # Parameter File
+
+This is a simple keyword file with options and file names. 
+
+![Screenshot of Parameter File](/Screenshots/ParameterFile.png?raw=true "Parameter file example")
+
+These are the main ones. There are many more options in the documentation. 
+
+# Output Files
+
+
+
+
 
 
 
