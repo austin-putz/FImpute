@@ -28,3 +28,19 @@ Also please change the permissions on the program like always in Linux.
 chmod 775 FImpute
 ```
 
+# Documentation
+
+You can find the full documentation on the program is online at the website above. Please download and read for full information and all the options available. 
+
+# vim users
+
+I have written vim syntax highlighting files for this program. This could potentially save you very severe problems with imputation by not finding options or entering the wrong word. If it's not on GitHub contact me and I can get you the files and how to install it on your Linux system. 
+
+# File formats
+
+
+
+
+
+
+
