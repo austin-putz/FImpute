@@ -1,0 +1,2 @@
+# Screenshots for FImpute Documentation
+
