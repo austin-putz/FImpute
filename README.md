@@ -83,10 +83,45 @@ These are the main ones. There are many more options in the documentation.
 * stat_snp_imp.txt
 * stat_snp.txt
 
+genotypes_imp.txt
 
+![](/Screenshots/genotypes_imp.png)
 
+org_vs_imp.txt
 
+![](/Screenshots/orig_vs_imp.png)
 
+parentage_test.txt
+
+![](/Screenshots/parentage_test.png)
+
+ref_pop.txt
+
+![](/Screenshots/ref_pop.png)
+
+report.txt
+
+![](/Screenshots/report.png)
+
+snp_info.txt
+
+![](/Screenshots/snp_info.png)
+
+stat_anim_imp.txt
+
+![](/Screenshots/stat_anim_imp.png)
+
+stat_anim.txt
+
+![](/Screenshots/stat_anim.png)
+
+stat_snp_imp.txt
+
+![](/Screenshots/stat_snp_imp.png)
+
+stat_snp.txt
+
+![](/Screenshots/stat_snp.png)
 
 
 
