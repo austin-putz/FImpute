@@ -8,21 +8,21 @@ FImpute was written at the University of Guelph by Mehdi Sargolzaei, Jacques Che
 
 # Getting started
 
-First visit their website ([here](http://www.aps.uoguelph.ca/~msargol/fimpute/) and download the Linux version (looks to be the only one available now). 
+First visit their website ([here](http://www.aps.uoguelph.ca/~msargol/fimpute/)) and download the (only) Linux version. 
 
 Once downloaded, I like to put this in my `~/bin/FImpute` folder or you can just put in your `~/bin/` folder (if your `.bashrc` or `.bash_profile` does not have this folder in it's PATH variable, you need to add by adding:
 
 ```bash
 export PATH=$HOME/bin/FImpute:$PATH
 ```
-or
+or just my `~/bin/` folder:
 ```bash
 export PATH=$HOME/bin:$PATH
 ```
 
-This will allow your system to find the binaries. 
+This will allow your system to find the binaries. Remember to restart your terminal or `source ~/.bash_profile`. 
 
-Also please change the permissions on the program like always in Linux. 
+Also please change the permissions on the binary like always in Linux. 
 
 ```bash
 chmod 775 FImpute
@@ -38,7 +38,7 @@ I have written vim syntax highlighting files for this program. This could potent
 
 # File formats
 
-I simply use space delimited files for all input files. 
+I simply use space delimited files for all input files, I'm not sure if it takes other formats. 
 
 ## Map File
 
