@@ -30,7 +30,7 @@ chmod 775 FImpute
 
 # Documentation
 
-You can find the full documentation on the program is online at the website above. Please download and read for full information and all the options available. 
+You can find the full documentation on the website above ([or click here](http://animalbiosciences.uoguelph.ca/~msargol/fimpute/FImpute_documentation.pdf)). Please download and read for full information and all the options available. 
 
 # vim users
 
